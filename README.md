@@ -4,6 +4,9 @@
 
 Um mergulho nos dados do Brasil! 🇧🇷 Essa aplicação web te permite explorar um vasto conjunto de informações sobre o nosso país de forma simples e intuitiva. É como ter uma biblioteca de dados do Brasil na palma da sua mão!
 
+### **Link para o projeto na Vercel**
+https://dados-brasil.vercel.app/
+
 ### **Como funciona?**
 
 1. **Busca:** Digite o que você quer saber na barra de pesquisa. Pode ser uma palavra-chave, um tema ou qualquer outra coisa relacionada aos dados.
