@@ -8,20 +8,20 @@ Um mergulho nos dados do Brasil! 🇧🇷 Essa aplicação web te permite explor
 
 1. **Busca:** Digite o que você quer saber na barra de pesquisa. Pode ser uma palavra-chave, um tema ou qualquer outra coisa relacionada aos dados.
 2. **Tipos de buscas:**
-3. Censo/população - Se você quer saber sobre a população brasileira;
-4. Emprego/Desemprego - Se quer saber sobre a taxa de desemprego, emprego e desocupação
-5. Educação - Se quiser saber sobre os dados de educação no Brasil
-6. Vegetação - Se quer saber sobre os tipos de vegetações presente no país
-7. Climas - Informações sobre os tipos de climas
-8. História - Traz um breve resumo da história do Brasil
-9. Diversidade - Mostra a enorme diversidade cultural presente no país
-10. Sudeste - Um resumo acerca da região Sudeste
-11. Sul - Um resumo sobre a região Sul
-12. Centro-Oeste/Centro - Resumo sobre a região Centro-Oeste
-13. Norte - Um resumo sobre a região Norte
-14. Nordeste - Um resumo sobre a região Nordeste
-15. Dados - Saber sobre a importância de se conhecer os dados sobre o Brasil
-16. iBGE - Conhecer um pouco mais sobre o Instituto Brasileiro de Geografia e Estatísticas
+3.                   Censo/população - Se você quer saber sobre a população brasileira;
+4.                   Emprego/Desemprego - Se quer saber sobre a taxa de desemprego, emprego e desocupação
+5.                   Educação - Se quiser saber sobre os dados de educação no Brasil
+6.                   Vegetação - Se quer saber sobre os tipos de vegetações presente no país
+7.                   Climas - Informações sobre os tipos de climas
+8.                   História - Traz um breve resumo da história do Brasil
+9.                   Diversidade - Mostra a enorme diversidade cultural presente no país
+10.                  Sudeste - Um resumo acerca da região Sudeste
+11.                  Sul - Um resumo sobre a região Sul
+12.                  Centro-Oeste/Centro - Resumo sobre a região Centro-Oeste
+13.                  Norte - Um resumo sobre a região Norte
+14.                  Nordeste - Um resumo sobre a região Nordeste
+15.                  Dados - Saber sobre a importância de se conhecer os dados sobre o Brasil
+16.                  IBGE - Conhecer um pouco mais sobre o Instituto Brasileiro de Geografia e Estatísticas
 
 17. **Resultados:** A aplicação irá vasculhar nossa base de dados e te mostrar todos os resultados relevantes. Cada resultado é apresentado de forma clara e organizada, com título, descrição, imagens e até links para mais informações.
 18. **Dados do IBGE:** Todas as informações presentes aqui são provenientes do IBGE (Instituto Brasileiro de Geografia e Estatística), a principal fonte de dados oficiais do Brasil.
